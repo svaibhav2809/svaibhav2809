@@ -6,8 +6,6 @@
 
 🔍 With a curious mind for data, I venture into the realm of data science, extracting insights and weaving narratives from complex datasets.
 
-☁️ Cloud aficionado: AWS is where I build, scale, and deploy. From [Lambda / API Gateway / DynamoDB] to [S3 / CloudFormation / IAM], I'm at home in the cloud ecosystem.
-
 ☁️ Deeply experienced in AWS services and cloud architecture. AWS services like Lambda, API Gateway, and DynamoDB are my tools of choice for building robust and cost-effective serverless architectures.
 
 🌱 Constantly learning and adapting, I enjoy staying up-to-date with the latest trends in web development and cloud computing. I firmly believe that continuous learning is key to innovation.
