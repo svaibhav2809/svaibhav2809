@@ -12,7 +12,7 @@
 
 🔧 Whether it's designing efficient databases, optimizing API performance, or ensuring top-notch security, I'm committed to delivering high-quality solutions that exceed expectations.
 
-🔗 Let's connect and collaborate on cutting-edge projects or chat about all things tech and cloud. Find me on [LinkedIn](www.linkedin.com/in/vaibhav--singh) to kickstart the conversation!
+🔗 Let's connect and collaborate on cutting-edge projects or chat about all things tech and cloud. Find me on [LinkedIn](https://www.linkedin.com/in/vaibhav--singh) to kickstart the conversation!
 
 ⚡ By the way, in moments when I'm not immersed in code or entangled in the cloud's embrace, you might catch me wandering forest trails / concocting culinary experiments / serenading melodies on a musical muse.
 
